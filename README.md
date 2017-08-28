@@ -1,3 +1,6 @@
 # HELLO-WORLD
 just another repository
-introduction about FOSS
+
+Hi humans:
+
+Hubet here, I Like Nodes,js & coffeescript.
